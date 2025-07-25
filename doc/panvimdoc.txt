@@ -1,4 +1,4 @@
-*panvimdoc.txt*           For NVIM v0.8.0           Last change: 2025 April 29
+*panvimdoc.txt*            For NVIM v0.8.0           Last change: 2025 July 25
 
 ==============================================================================
 Table of Contents                                *panvimdoc-table-of-contents*
@@ -543,7 +543,7 @@ section and instead is placed inline.
 
 LINKING TO HELP TAGS                  *panvimdoc-heading-linking-to-help-tags*
 
-Markdown doucments may suggest help tags via |help-tag|, which are converted to
+Markdown documents may suggest help tags via |help-tag|, which are converted to
 `|help-tag|` "hot links" in vimdoc.
 
 
