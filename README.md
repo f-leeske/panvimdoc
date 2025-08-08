@@ -3,7 +3,6 @@
 [![Docs](https://img.shields.io/badge/docs-dev-blue.svg)](https://kdheepak.com/panvimdoc/)
 [![Build](https://github.com/kdheepak/panvimdoc/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/kdheepak/panvimdoc/actions/workflows/test.yml?query=branch%3Amain)
 [![Sponsor](https://img.shields.io/badge/GitHub_Sponsor-%E2%9D%A4-blue)](https://github.com/sponsors/kdheepak)
-[![Donate](https://img.shields.io/badge/Donate_Via_Stripe-%E2%9D%A4-blue)](https://donate.stripe.com/8wM9E7bBO9ZsbGUdQR)
 
 Write documentation in [pandoc markdown](https://pandoc.org/MANUAL.html). Generate documentation in
 vimdoc.
