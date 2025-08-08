@@ -428,8 +428,7 @@ this script, or check the |panvimdoc-usage| section.
 9. Donate                                                   *panvimdoc-donate*
 
 If you’ve found this project helpful, you can show your appreciation by
-sponsoring me on GitHub Sponsors <https://github.com/sponsors/kdheepak/> or
-donating via Strip <https://donate.stripe.com/8wM9E7bBO9ZsbGUdQR>.
+sponsoring me on GitHub Sponsors <https://github.com/sponsors/kdheepak/>.
 
 
 ==============================================================================
