@@ -352,4 +352,4 @@ please feel free to comment here: <https://github.com/kdheepak/panvimdoc/discuss
 
 # Donate
 
-If you've found this project helpful, you can show your appreciation by sponsoring me on [GitHub Sponsors](https://github.com/sponsors/kdheepak/) or [donating via Strip](https://donate.stripe.com/8wM9E7bBO9ZsbGUdQR).
+If you've found this project helpful, you can show your appreciation by sponsoring me on [GitHub Sponsors](https://github.com/sponsors/kdheepak/).
